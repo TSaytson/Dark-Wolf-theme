@@ -1,0 +1,22 @@
+{
+  "name": "say-dark",
+  "displayName": "Say-Dark",
+  "description": "A dark-modern theme like with more colorization of keywords",
+  "version": "0.0.1",
+  "publisher": "ThiagoSaytson",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Say-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Say-Dark-color-theme.json"
+      }
+    ]
+  }
+}
