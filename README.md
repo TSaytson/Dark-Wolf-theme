@@ -30,7 +30,7 @@
 
 <a href="https://tsaytson.github.io">
   <img src="./images/me.jpg" width="80px">
-  <h1>Thiago Saytson</h1>
+  <p>Thiago Saytson</p>
 </a>
 
 ## Reach me at
