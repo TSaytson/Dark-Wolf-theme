@@ -5,31 +5,31 @@
 <hr>
 
 #### Screenshots
-<img src="./images/Full window.png">
 <span>Full window</span>
+<img src="./images/Full window.png">
 
 <br>
-<img src="./images/aspnet.png">
 <span>Some Asp.Net code</span>
+<img src="./images/aspnet.png">
 
 <br>
-<img src="./images/css.png">
 <span>How it looks with css</span>
+<img src="./images/css.png">
 
 <br>
-<img src="./images/React.png">
 <span>Some React code</span>
+<img src="./images/React.png">
 
 <br>
-<img src="./images/vue.png">
 <span>Some Vue code</span>
+<img src="./images/vue.png">
 <hr>
 
 # Team
 #### Maintained only by me for now
 
 <a href="https://tsaytson.github.io">
-  <img src="./images/me.jpg">
+  <img src="./images/me.jpg" width="80px">
   <h1>Thiago Saytson</h1>
 </a>
 
