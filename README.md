@@ -1,16 +1,41 @@
-# say-dark README
+# Say-Dark Theme
 
-## Working with Markdown
+#### One more dark theme for <a href="http://code.visualstudio.com/">Visual Studio Code</a>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<hr>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+#### Screenshots
+<img src="./images/Full window.png">
+<span>Full window</span>
 
-## For more information
+<br>
+<img src="./images/aspnet.png">
+<span>Some Asp.Net code</span>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<br>
+<img src="./images/css.png">
+<span>How it looks with css</span>
+
+<br>
+<img src="./images/React.png">
+<span>Some React code</span>
+
+<br>
+<img src="./images/vue.png">
+<span>Some Vue code</span>
+<hr>
+
+# Team
+#### Maintained only by me for now
+
+<a href="https://tsaytson.github.io">
+  <img src="./images/me.jpg">
+  <h1>Thiago Saytson</h1>
+</a>
+
+## Reach me at
+<a href="https://www.linkedin.com/in/thiago-saytson/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 **Enjoy!**
