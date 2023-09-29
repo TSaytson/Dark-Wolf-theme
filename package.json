@@ -7,7 +7,7 @@
   "icon": "assets/images/darkwolf_logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TSaytson/Say-Dark-theme"
+    "url": "https://github.com/TSaytson/Dark-Wolf-theme"
   },
   "keywords": [
     "theme",
@@ -26,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Say-Dark",
+        "label": "Dark-Wolf",
         "uiTheme": "vs-dark",
-        "path": "./themes/Say-Dark-color-theme.json"
+        "path": "./themes/Dark-Wolf-color-theme.json"
       }
     ]
   }
