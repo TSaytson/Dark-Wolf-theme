@@ -624,6 +624,14 @@
       }
     },
     {
+      "scope": [
+        "entity.name.type.class"
+      ],
+      "settings": {
+        "foreground": "#FF0000"
+      }
+    },
+    {
       "name": "Types declaration and references",
       "scope": [
         "support.class",
@@ -695,7 +703,6 @@
     {
       "name": "Variable and parameter name",
       "scope": [
-        "variable",
         "meta.definition.variable.name",
         "support.variable",
         "entity.name.variable",
@@ -703,6 +710,27 @@
       ],
       "settings": {
         "foreground": "#9CDCFE"
+      }
+    },
+    {
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#a13ddb"
+      }
+    },
+    {
+      "scope": "variable.other.readwrite",
+      "settings": {
+        "foreground": "#3ddb92",
+      }
+    },
+    {
+      "scope": [
+        "meta.object.member",
+        "meta.embedded.line"
+      ],
+      "settings": {
+        "foreground": "#6a6ebd",
       }
     },
     {
@@ -718,10 +746,10 @@
     {
       "name": "Object keys, TS grammar specific",
       "scope": [
-        "meta.object-literal.key"
+        "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#cfcfcf"
+        "foreground": "#6a6ebd"
       }
     },
     {
@@ -869,12 +897,6 @@
       "scope": "entity.name.tag.css",
       "settings": {
         "foreground": "#ff6f00"
-      }
-    },
-    {
-      "scope": "entity.other.attribute-name",
-      "settings": {
-        "foreground": "#9cdcfe"
       }
     },
     {
@@ -1164,7 +1186,7 @@
       "name": "this.self",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#569cd6"
+        "foreground": "#bf1900"
       }
     }
   ],
