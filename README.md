@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/thiago-saytson/">
+<a href="https://www.linkedin.com/in/mariana-s-carvalho/">
 <h3>Mariana Carvalho</h3>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
