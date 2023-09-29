@@ -1,5 +1,5 @@
 {
-	"name": "Say-Dark",
+	"name": "Dark-Wolf",
 	"colors": {
     "activityBar.background": "#131313",
     "activityBar.foreground": "#7b7b7b",
@@ -721,7 +721,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#cfcfcf"
       }
     },
     {
@@ -1096,7 +1096,7 @@
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#569cd6"
+        "foreground": "#C586C0"
       }
     },
     {

@@ -6,34 +6,34 @@
 
 #### Screenshots
 <span>Full window</span>
-<img src="./images/Full window.png">
+<img src="./assets/images/Full window.png">
 
 <br>
 <span>Some Asp.Net code</span>
-<img src="./images/aspnet.png">
+<img src="./assets/images/aspnet.png">
 
 <br>
 <span>How it looks with css</span>
-<img src="./images/css.png">
+<img src="./assets/images/css.png">
 
 <br>
 <span>Some React code</span>
-<img src="./images/React.png">
+<img src="./assets/images/React.png">
 
 <br>
 <span>Some Vue code</span>
-<img src="./images/vue.png">
+<img src="./assets/images/vue.png">
 <hr>
 
 # Team
 <div style="display:flex; justify-content:space-around">
 <a href="https://tsaytson.github.io">
-  <img src="./images/thiago.jpg" width="80px">
+  <img src="./assets/images/thiago.jpg" width="80px">
   <p>Thiago Saytson</p>
 </a>
 
 <a href="https://www.linkedin.com/in/mariana-s-carvalho/">
-  <img src="./images/mariana.jpg" width="80px">
+  <img src="./assets/images/mariana.jpg" width="80px">
   <p>Mariana Carvalho</p>
 </a>
 </div>
