@@ -4,14 +4,12 @@
     "activityBar.background": "#131313",
     "activityBar.foreground": "#7b7b7b",
     "activityBarBadge.background": "#007acc",
-    "editor.background": "#101016",
+    "editor.background": "#15151c",
     "editor.foreground": "#d4d4d4",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.selectionHighlightBackground": "#add6ff26",
-    "editorIndentGuide.activeBackground1": "#707070",
-    "editorIndentGuide.activeBackground2": "#282828",
-    "editorIndentGuide.background1": "#404040",
-    "editorIndentGuide.background2": "#1a1a1a",
+    "editorIndentGuide.activeBackground1": "#454545",
+    "editorIndentGuide.background1": "#202020",
     "gitDecoration.ignoredResourceForeground": "#403434",
     "input.placeholderForeground": "#a6a6a6",
     "list.dropBackground": "#383b3d",
@@ -993,6 +991,12 @@
       "scope": "punctuation.definition.tag",
       "settings": {
         "foreground": "#808080"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.html",
+      "settings": {
+        "foreground": "#4d75c4",
       }
     },
     {
