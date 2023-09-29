@@ -728,7 +728,7 @@
         "meta.embedded.line"
       ],
       "settings": {
-        "foreground": "#6a6ebd",
+        "foreground": "#8a74ed",
       }
     },
     {
@@ -1122,7 +1122,7 @@
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#f505c1"
       }
     },
     {
@@ -1190,7 +1190,7 @@
       "name": "this.self",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#bf1900"
+        "foreground": "#eb1f00"
       }
     }
   ],
